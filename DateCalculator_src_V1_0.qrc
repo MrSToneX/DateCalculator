@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icosrc">
+    <file>DateCalculator_icon_640x640.png</file>
+  </qresource>
+</RCC>
