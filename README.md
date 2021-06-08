@@ -1,4 +1,4 @@
-![screenshot](./screenshot.png)
+![screenshot](https://github.com/MrSToneX/DateCalculator/blob/main/screenshot.png)
 ##
 # - DateCalculator -
 # - 日期计算器 -
