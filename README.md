@@ -1,5 +1,4 @@
-
-![](https://github.com/MrSToneX/DateCalculator/raw/main/screenshot.png)
+![](https://github.com/MrSToneX/DateCalculator/raw/main/screenshot.gif)
 # DateCalculator
 # 日期计算器
 ## 起始日期、结束日期、间隔天数，三者选其二，计算未选项
