@@ -1,7 +1,7 @@
 ![screenshot](https://github.com/MrSToneX/DateCalculator/blob/main/screenshot.png)
 ##
-# - DateCalculator -
-# - 日期计算器 -
+# - DateCalculator with GUI(PYQT5) -
+# - 带有GUI(PYQT5)的日期计算器 -
 ### `DateCalculator_logic_V1_0.py` is main file
 ### `DateCalculator_logic_V1_0.py` 为主文件
 ##
