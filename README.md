@@ -7,3 +7,6 @@
 ##
 ### Start date、End date、Interval days，choose two from three options，calculator unchecked
 ### 起始日期、结束日期、间隔天数，三者选其二，计算未选项
+##
+### Running by Python 3
+### 由 Python 3 运行
